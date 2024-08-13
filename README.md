@@ -10,7 +10,7 @@ I'm deepening my knowledge in advanced JavaScript frameworks like React and Next
 I'm looking to collaborate on exciting projects that push the boundaries of web development. Whether it's building a cutting-edge app, contributing to open-source projects, or exploring new tech, I'm all in!
 
 ## 📫 How to Reach Me
-You can reach me through [LinkedIn](https://www.linkedin.com/in/phu-mai-nguyen-viet-663628252/) or drop me an email at phudangcode@example.com. Let's connect and create something amazing together!
+You can reach me through [LinkedIn](https://www.linkedin.com/in/phu-mai-nguyen-viet-663628252/) or drop me an email at 10421047@gmail.com. Let's connect and create something amazing together!
 
 ## 😄 Pronouns
 He/Him
